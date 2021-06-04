@@ -1,0 +1,5 @@
+v1.2.2
+added file looping
+changed preferences storage to .json, instead of .txt
+changed the name
+removed save and load buttons in the settings, as they are in the menu (windows only)
