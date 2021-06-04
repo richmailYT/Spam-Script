@@ -1,2 +1,0 @@
-v1.2.1
-Fixed a bug which the path of the selected file would not appear
