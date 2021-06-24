@@ -1,4 +1,0 @@
-v1.2.3
-fixed saving preferences
-fixed countdown not deleting
-fixed words on on checkboxs not showing when in dark mode
