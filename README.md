@@ -7,3 +7,6 @@ if you are on MacOs then install tkmacosx and pyautogui
 
 if you are on Windows then insall keyboard and pynput
 ```pip3 install keyboard==0.13.5 && pip3 install pynput==1.7.4```
+
+If you are on linux, windows version should work.
+follow all the instructions for windows
