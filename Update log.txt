@@ -1,0 +1,32 @@
+v1.0.0
+Release
+
+v1.1.0
+Added dark mode
+
+v1.2.0
+Added loading and saving preferences
+
+v1.2.1
+Fixed a bug which the path of the selected file would not appear
+
+v1.2.2
+changed preferences storage to .json, instead of .txt
+added file looping
+changed the name
+
+v1.2.3
+fixed saving preferences
+fixed countdown not deleting
+fixed words on on checkbox's not showing when in dark mode
+
+v1.2.4
+removed unused code and refactored a few things
+
+v1.2.5 
+works again = true
+
+known bugs:
+Applicaton freezes when stopped
+posiable cuase:
+may having something to do with the typeing function
