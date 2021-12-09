@@ -2,7 +2,8 @@
 CLI (Command-line-interface) for spamming. It is very easy to use
 
 type in your terminal or cmd `python3 /path/to/script /path/to/text/file/to/use/to/spam`
-and example is `python3 Downloads/spammer\ 1.3.0.py`
+
+An example is `python3 Downloads/spammer\ 1.3.0.py`
 
 
 Move your mouse to the top left corner of your screen to stop the spam.
