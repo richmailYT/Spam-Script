@@ -1,8 +1,0 @@
-v1.3.0
-changed starting possition when selecting txt file to spam with
-removed GUI and the many bugs that were tyed to the GUI
-removing the GUI means a WHOLE bunch of code. 80% of it was GUI code
-removed looping
-
-Mile-stone 2.0.0 plan:
-switch from Python to Rust or Golang
