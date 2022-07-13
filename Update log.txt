@@ -39,3 +39,8 @@ removed looping
 
 Mile-stone 2.0.0 plan:
 switch from Python to Rust or Golang
+
+v1.3.1 7/13/2022
+
+Minor refactoring
+Added countdown
